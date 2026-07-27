@@ -353,9 +353,7 @@ A. Common Navigation Setup :-
 - < BrowserRouter >…</ BrowserRouter > : a high-level component that wraps entire application routing.
 - < Routes >…</ Routes > : a collection of < Route >…</ Route > elements.
 - < Route >…</ Route > : a component used to define individual routes (“path” attribute) for individual components (“element” attribute).
-
 2. Creating Links :-
-
 - < Link >…</ Link > : acts as < a >…</ a > (but prevents page reload), has “to” attribute instead of “href”.
 - < NavLink >…</ NavLink > : works same as < Link >, but has “active” class.
 
