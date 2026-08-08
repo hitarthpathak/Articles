@@ -4,7 +4,7 @@
 
 **Git** is a **Version Control System**, which means, it is a tool which tracks changes in your code, maintains its history, and allows you to revert, compare, and manage different versions of a project.
 
-GitHub is a **Cloud-Based Hosting Platform** For Git Repositories, which means, it allows you to store your code online, collaborate with others, and manage projects using features like pull requests, issues, and branches.
+**GitHub** is a **Cloud-Based Hosting Platform** For Git Repositories, which means, it allows you to store your code online, collaborate with others, and manage projects using features like pull requests, issues, and branches.
 
 ---
 
@@ -142,6 +142,8 @@ OR
 - You can make your Project live through GitHub Pages (just make sure your index.html should be in the root directory, because it look for that particular file as the default Home Page.)
 - You can create Pull Request on Repositories of other Users. Your Pull Request contains your changes on that particular project, that you want them to merge on that project. If they accept it, your changes will be visible. Make sure you make “important” code changes, not just basic “grammatical errors”.
 - You can also Fork the Repositories of other Users. This will show their Repository on your Account, but with their Username on top (of course).
+
+---
 
 #### Branches :-
 
